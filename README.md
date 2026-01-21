@@ -12,3 +12,20 @@ Actively seeking SDE / Internship opportunities.
 🤖 AI/ML: Python, ML, LLMs 
 🗄️ Databases: MongoDB, SQL  
 🛠 Tools: Git, GitHub, Docker, VS Code
+
+
+🚀 Featured Projects
+
+🔹 AI Log – Intelligent Log Analysis System
+→ Built a system to analyze application logs, detect anomalies, and generate insights using AI
+→ Tech: React, Node.js, Express, Python, MongoDB
+→ Focus: Backend architecture, AI integration, real-world system design
+→ View Repository
+
+🔹 AdMyBrand Insights – Personal Finance Analytics Dashboard
+→ Interactive frontend dashboard to visualize and track personal finance metrics
+→ Tech: React.js, TypeScript, Tailwind CSS
+→ Focus: UI/UX, data visualization, component-based architecture
+→ View Repository
+
+📫 LinkedIn: https://www.linkedin.com/in/laukik-parashare-7373a326b/
