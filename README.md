@@ -1,16 +1,14 @@
-## Hi there 👋
 
-<!--
-**Rockyyy2312/Rockyyy2312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Laukik 👋  
+Full-Stack & AI Engineer | MERN, ML, LLMs
 
-Here are some ideas to get you started:
+Final-year engineering student building scalable full-stack and AI-driven systems.  
+Focused on backend engineering, LLM-based applications, and problem-solving.  
+Actively seeking SDE / Internship opportunities.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 Core: Data Structures, OOP, REST APIs  
+🌐 Frontend: React, Tailwind CSS, JavaScript  
+⚙️ Backend: Node.js, Express, JWT  
+🤖 AI/ML: Python, ML, LLMs 
+🗄️ Databases: MongoDB, SQL  
+🛠 Tools: Git, GitHub, Docker, VS Code
