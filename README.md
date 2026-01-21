@@ -6,12 +6,32 @@ Final-year engineering student building scalable full-stack and AI-driven system
 Focused on backend engineering, LLM-based applications, and problem-solving.  
 Actively seeking SDE / Internship opportunities.
 
-🧠 Core: Data Structures, OOP, REST APIs  
-🌐 Frontend: React, Tailwind CSS, JavaScript  
-⚙️ Backend: Node.js, Express, JWT  
-🤖 AI/ML: Python, ML, LLMs 
-🗄️ Databases: MongoDB, SQL  
-🛠 Tools: Git, GitHub, Docker, VS Code
+## 🧩 Tech Stack
+
+### 🧠 Core
+![DSA](https://img.shields.io/badge/DSA-000000?style=flat&logo=codeforces&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-000000?style=flat&logo=cplusplus&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-000000?style=flat&logo=postman&logoColor=white)
+
+### 🌐 Frontend
+![React](https://img.shields.io/badge/React-000000?style=flat&logo=react)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-000000?style=flat&logo=tailwind-css)
+
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat&logo=node.js)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express)
+![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=flat&logo=fastapi)
+
+### 🤖 AI / ML
+![Python](https://img.shields.io/badge/Python-000000?style=flat&logo=python)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-000000?style=flat&logo=scikitlearn)
+
+### 🗄 Databases & Tools
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=flat&logo=mongodb)
+![Git](https://img.shields.io/badge/Git-000000?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github)
+
 
 🚀 Featured Projects
 
