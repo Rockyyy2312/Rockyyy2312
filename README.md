@@ -1,10 +1,9 @@
-
 Hi, I'm Laukik 👋  
 Full-Stack & AI Engineer | MERN, ML, LLMs
 
-Final-year engineering student building scalable full-stack and AI-driven systems.  
-Focused on backend engineering, LLM-based applications, and problem-solving.  
-Actively seeking SDE / Internship opportunities.
+Final-year engineering student building production-ready full-stack and AI systems.  
+Focused on backend engineering, LLM-based applications, and clean system design.  
+Currently seeking SDE and internship opportunities.
 
 ## 🧩 Tech Stack
 
@@ -33,7 +32,6 @@ Actively seeking SDE / Internship opportunities.
 ![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=flat&logo=mongodb)
 ![Git](https://img.shields.io/badge/Git-000000?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github)
-
 
 ## 🚀 Featured Projects
 
@@ -79,4 +77,5 @@ https://admybrand-insights-ruby.vercel.app
 https://github.com/Rockyyy2312/admybrand-insights  
 
 
-📫 LinkedIn: https://www.linkedin.com/in/laukik-parashare-7373a326b/
+📫 **LinkedIn:**
+https://www.linkedin.com/in/laukik-parashare-7373a326b/
