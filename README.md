@@ -65,7 +65,7 @@ ML Service → https://github.com/Rockyyy2312/AI-log-Intelligence-system-ml
 Provides an interactive interface to explore financial data through clean visualizations and modular UI components.
 
 **Tech Stack:**  
-`Nextt.js` `TypeScript` `Tailwind CSS`
+`Next.js` `TypeScript` `Tailwind CSS`
 
 **Focus Areas:**  
 UI/UX · Data visualization · Component-based architecture  
