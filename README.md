@@ -49,6 +49,9 @@ Backend architecture · AI integration · Scalable system design
 
 **Status:** In active development  
 
+🌐 **Live Demo:**  
+https://ai-log-intelligence-frontend.vercel.app/
+
 🔗 **Main Repo:**  
 https://github.com/Rockyyy2312/AI-log-Intelligence-system  
 
