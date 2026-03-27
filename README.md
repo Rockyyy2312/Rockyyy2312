@@ -1,193 +1,152 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=280&section=header&text=Laukik%20Parashare&fontSize=80&fontAlignY=40&desc=Backend%20%26%20AI%20Engineer&descAlignY=58&descSize=24&animation=twinkling" width="100%" alt="Header Banner" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+Scalable+Systems;AI+%26+LLM+Engineer;Backend+Focused+Developer" alt="Typing effect" />
+</p>
+
+<br/>
+
+<h2 align="center">👨‍💻 About Me</h2>
+
 <div align="center">
 
-# ✦ Laukik Parashare ✦
+I am a final-year engineering student forging **production-ready backend architectures** and **intelligent AI workflows**. <br/>
+I specialize in bridging the gap between highly scalable backend systems and modern Machine Learning & LLM applications.
 
-**Full-Stack & AI Engineer | MERN, ML, LLMs**
+**`DSA`** | **`System Design`** | **`RESTful APIs`** | **`Microservices`**
 
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=530&lines=Building+Scalable+Systems;AI+%26+LLM+Engineer;Backend+Focused+Developer" alt="Typing effect" />
-
-<br/>
-
-> **Final-year engineering student** building production-ready systems.<br/>
-> Focus on **backend systems, AI, and LLM apps**.<br/>
-> Strong in **DSA, system design, and APIs**.<br/>
-> Seeking **SDE / Internship roles**.
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="80%" />
+*Currently seeking **Software Development Engineer (SDE)** or **Internship** roles.*
 
 </div>
 
 <br/>
 
-### <div align="center">⚡ Tech Stack</div>
+<h2 align="center">🚀 Tech Arsenal</h2>
 
-<div align="center">
-
-`Core`
-<br/>
-<img src="https://img.shields.io/badge/DSA-0a0a0a?style=for-the-badge&logoColor=00F7FF&logo=leetcode" />
-<img src="https://img.shields.io/badge/OOP-0a0a0a?style=for-the-badge&logoColor=7A00FF&logo=cplusplus" />
-<img src="https://img.shields.io/badge/System%20Design-0a0a0a?style=for-the-badge&logoColor=00F7FF&logo=diagramsdotnet" />
-<img src="https://img.shields.io/badge/REST%20APIs-0a0a0a?style=for-the-badge&logoColor=7A00FF&logo=postman" />
-
-<br/><br/>
-`Frontend`
-<br/>
-<img src="https://img.shields.io/badge/React-0a0a0a?style=for-the-badge&logo=react&logoColor=00F7FF" />
-<img src="https://img.shields.io/badge/Next.js-0a0a0a?style=for-the-badge&logo=nextdotjs&logoColor=7A00FF" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-0a0a0a?style=for-the-badge&logo=tailwindcss&logoColor=00F7FF" />
-
-<br/><br/>
-`Backend`
-<br/>
-<img src="https://img.shields.io/badge/Node.js-0a0a0a?style=for-the-badge&logo=nodedotjs&logoColor=7A00FF" />
-<img src="https://img.shields.io/badge/Express-0a0a0a?style=for-the-badge&logo=express&logoColor=00F7FF" />
-<img src="https://img.shields.io/badge/FastAPI-0a0a0a?style=for-the-badge&logo=fastapi&logoColor=7A00FF" />
-<img src="https://img.shields.io/badge/JWT-0a0a0a?style=for-the-badge&logo=jsonwebtokens&logoColor=00F7FF" />
-
-<br/><br/>
-`AI & ML`
-<br/>
-<img src="https://img.shields.io/badge/Python-0a0a0a?style=for-the-badge&logo=python&logoColor=00F7FF" />
-<img src="https://img.shields.io/badge/Machine_Learning-0a0a0a?style=for-the-badge&logo=scikitlearn&logoColor=7A00FF" />
-<img src="https://img.shields.io/badge/TensorFlow-0a0a0a?style=for-the-badge&logo=tensorflow&logoColor=00F7FF" />
-
-<br/><br/>
-`Databases & Tools`
-<br/>
-<img src="https://img.shields.io/badge/MongoDB-0a0a0a?style=for-the-badge&logo=mongodb&logoColor=7A00FF" />
-<img src="https://img.shields.io/badge/Git-0a0a0a?style=for-the-badge&logo=git&logoColor=00F7FF" />
-<img src="https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=7A00FF" />
-
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/purple.png" width="80%" />
-
-</div>
+<p align="center">
+  <b>Core & Languages</b><br/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+</p>
+<p align="center">
+  <b>Frontend Edge</b><br/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+</p>
+<p align="center">
+  <b>Backend & Databases</b><br/>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+</p>
+<p align="center">
+  <b>AI / ML & Infrastructure</b><br/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-Learn"/>
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+</p>
 
 <br/>
 
-### <div align="center">🚀 Featured Projects</div>
+<h2 align="center">💻 Featured Projects</h2>
 
-<table align="center" width="80%">
+<table width="100%" border="0">
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">
-        <a href="https://github.com/Rockyyy2312/AI-log-Intelligence-system" style="text-decoration: none;">
-          🌌 AI Log
-        </a>
-      </h3>
-      <p align="center"><em>Intelligent Log Analysis System</em></p>
-      <ul>
-        <li>✨ <strong>AI-based anomaly detection</strong> in logs</li>
-        <li>⚡ Backend-heavy scalable architecture</li>
-        <li>⚙️ Real-world engineering use case</li>
-      </ul>
-      <p align="center">
-        <code>React</code> <code>Node.js</code> <code>Express</code> <code>Python</code> <code>MongoDB</code>
-      </p>
-      <div align="center">
-        <a href="https://ai-log-intelligence-frontend.vercel.app/">
-          <img src="https://img.shields.io/badge/-Live%20Demo-00F7FF?style=for-the-badge&logo=vercel&logoColor=black" alt="Live Demo" />
-        </a>
-        <a href="https://github.com/Rockyyy2312/AI-log-Intelligence-system">
-          <img src="https://img.shields.io/badge/-Source%20Code-0a0a0a?style=for-the-badge&logo=github&logoColor=00F7FF" alt="Source Code" />
-        </a>
+    <td width="50%" align="center" valign="top">
+      <h3>🧠 AI Log</h3>
+      <p><i>Intelligent Log Analysis System</i></p>
+      <hr/>
+      <div align="left">
+        <ul>
+          <li><b>AI-driven anomaly detection</b> inside complex server logs.</li>
+          <li><b>Backend-heavy</b> & immensely scalable processing pipeline.</li>
+          <li><b>Real-world engineering</b> for advanced system observability.</li>
+        </ul>
       </div>
+      <br/>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React"/>
+        <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=nodedotjs&logoColor=white" alt="Node"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
+        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" alt="MongoDB"/>
+      </p>
+      <p align="center">
+        <a href="https://ai-log-intelligence-frontend.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/badge/🌐_Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
+        </a>
+        <a href="https://github.com/Rockyyy2312/AI-log-Intelligence-system" target="_blank">
+          <img src="https://img.shields.io/badge/💻_Source_Code-1A1A1A?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
+        </a>
+      </p>
     </td>
-    <td width="50%" valign="top">
-      <h3 align="center">
-        <a href="https://github.com/Rockyyy2312/admybrand-insights" style="text-decoration: none;">
-           🔮 AdMyBrand Insights
-        </a>
-      </h3>
-      <p align="center"><em>Finance Dashboard</em></p>
-      <ul>
-        <li>📊 Interactive financial analytics dashboard</li>
-        <li>🎨 Clean UI and modular architecture</li>
-        <li>🚀 Strong frontend engineering</li>
-      </ul>
-      <p align="center">
-        <code>Next.js</code> <code>TypeScript</code> <code>Tailwind</code>
-      </p>
-      <div align="center">
-        <a href="https://admybrand-insights-ruby.vercel.app">
-          <img src="https://img.shields.io/badge/-Live%20Demo-7A00FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
-        </a>
-        <a href="https://github.com/Rockyyy2312/admybrand-insights">
-          <img src="https://img.shields.io/badge/-Source%20Code-0a0a0a?style=for-the-badge&logo=github&logoColor=7A00FF" alt="Source Code" />
-        </a>
+    <td width="50%" align="center" valign="top">
+      <h3>📊 AdMyBrand Insights</h3>
+      <p><i>Interactive Finance Dashboard</i></p>
+      <hr/>
+      <div align="left">
+        <ul>
+          <li><b>Advanced analytics</b> and visual data representations.</li>
+          <li><b>Clean UI implementation</b> using modular, reusable components.</li>
+          <li><b>High-performance</b> frontend engineering & optimization.</li>
+        </ul>
       </div>
+      <br/>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript"/>
+        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+      </p>
+      <p align="center">
+        <a href="https://admybrand-insights-ruby.vercel.app" target="_blank">
+          <img src="https://img.shields.io/badge/🌐_Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
+        </a>
+        <a href="https://github.com/Rockyyy2312/admybrand-insights" target="_blank">
+          <img src="https://img.shields.io/badge/💻_Source_Code-1A1A1A?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
+        </a>
+      </p>
     </td>
   </tr>
 </table>
 
 <br/>
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="80%" />
-</div>
+<h2 align="center">📈 GitHub Analytics</h2>
 
-<br/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rockyyy2312&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rockyyy2312&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
+</p>
 
-### <div align="center">📈 GitHub Highlights</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rockyyy2312&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&custom_title=Top%20Languages" alt="Top Languages" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rockyyy2312&show_icons=true&title_color=00F7FF&icon_color=7A00FF&text_color=9f9f9f&bg_color=0a0a0a&hide_border=true&border_radius=10" height="190" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rockyyy2312&theme=dark&background=0a0a0a&fire=00F7FF&ring=7A00FF&currStreakLabel=00F7FF&currStreakNum=00F7FF&sideNums=9f9f9f&sideLabels=9f9f9f&dates=9f9f9f&hide_border=true&border_radius=10" height="190" alt="GitHub Streak" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rockyyy2312&layout=compact&title_color=7A00FF&text_color=9f9f9f&bg_color=0a0a0a&hide_border=true&border_radius=10" height="180" alt="Top Languages" />
-</div>
-
-<br/>
-
-<div align="center">
+<!-- GitHub Snake Contribution Grid (Will load automatically once your action is setup) -->
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rockyyy2312/Rockyyy2312/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rockyyy2312/Rockyyy2312/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Rockyyy2312/Rockyyy2312/output/github-contribution-grid-snake-dark.svg" width="80%">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Rockyyy2312/Rockyyy2312/output/github-contribution-grid-snake.svg" width="100%">
   </picture>
-  <br/>
-  <i><sup style="color:#9f9f9f">(Run the <a href="https://github.com/Platane/snk">snake action</a> to enable this dynamic element)</sup></i>
-</div>
+</p>
 
 <br/>
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/purple.png" width="80%" />
-</div>
+<h2 align="center">📫 Let's Connect</h2>
 
-<br/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/laukik-parashare-7373a326b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/Rockyyy2312"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
 
-### <div align="center">🎯 Personal Edge</div>
-
-<div align="center">
-  <p>
-    <code>Backend-first mindset</code> • <code>AI system builder</code> • <code>Focus on scalable architecture</code> • <code>Real-world impact projects</code>
-  </p>
-  <br/>
-  <p>
-    <i>"Code. Scale. Solve Real Problems."</i>
-  </p>
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/laukik-parashare-7373a326b/">
-    <img src="https://img.shields.io/badge/-LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/Rockyyy2312">
-    <img src="https://img.shields.io/badge/-GitHub-7A00FF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</div>
-
-<br/>
+<p align="center">
+  <b><i>"Code. Scale. Solve Real Problems."</i></b>
+</p>
