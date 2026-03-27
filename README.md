@@ -40,10 +40,47 @@
 
 <br/>
 
-<p align="center">
-  <!-- Merged into a single image block and scaled to width="750" to make the glass/gradient effect massive and perfectly aligned -->
-  <img src="https://skillicons.dev/icons?i=cpp,py,js,ts,react,nextjs,tailwind,nodejs,express,fastapi,mongodb,tensorflow,git,docker&theme=dark&perline=7" width="750" alt="Supercharged Tech Stack" />
+<div align="center">
+
+<h3><b>☁️ Cloud & DevOps</b></h3>
+<p>
+  <img src="https://img.shields.io/badge/AWS-0a0a0a?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" alt="AWS" />
+  <img src="https://img.shields.io/badge/Docker-0a0a0a?style=for-the-badge&logo=docker&logoColor=2CA5E0" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-0a0a0a?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
+
+<br/>
+
+<h3><b>⚛️ MERN Stack</b></h3>
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-0a0a0a?style=for-the-badge&logo=mongodb&logoColor=4EA94B" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Express.js-0a0a0a?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/React-0a0a0a?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-0a0a0a?style=for-the-badge&logo=nodedotjs&logoColor=339933" alt="Node.js" />
+</p>
+
+<br/>
+
+<h3><b>🐍 Python & AI</b></h3>
+<p>
+  <img src="https://img.shields.io/badge/Python-0a0a0a?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
+  <img src="https://img.shields.io/badge/TensorFlow-0a0a0a?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/FastAPI-0a0a0a?style=for-the-badge&logo=fastapi&logoColor=009688" alt="FastAPI" />
+</p>
+
+<br/>
+
+<h3><b>🛠️ Languages & Tools</b></h3>
+<p>
+  <img src="https://img.shields.io/badge/C%2B%2B-0a0a0a?style=for-the-badge&logo=cplusplus&logoColor=00599C" alt="C++" />
+  <img src="https://img.shields.io/badge/JavaScript-0a0a0a?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-0a0a0a?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-0a0a0a?style=for-the-badge&logo=tailwindcss&logoColor=38B2AC" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Postman-0a0a0a?style=for-the-badge&logo=postman&logoColor=FF6C37" alt="Postman" />
+</p>
+
+</div>
 
 <br/>
 
@@ -102,6 +139,7 @@
   </blockquote>
   
   <p>
+    <!-- I kept Next.js in this specific project card since your repo natively relies on it! -->
     <img src="https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
     <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
     <img src="https://img.shields.io/badge/TAILWIND-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
@@ -133,6 +171,7 @@
 <div align="center">
 
 <p>
+  <!-- Replace the href below with your mailto string if needed -->
   <a href="mailto:your.email@example.com">
      <img src="https://img.shields.io/badge/EMAIL_ME-00F7FF?style=for-the-badge&logo=gmail&logoColor=000000&color=0a0a0a" alt="Email" />
   </a>
