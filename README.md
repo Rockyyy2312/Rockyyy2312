@@ -1,85 +1,121 @@
-Hi, I'm Laukik 👋  
-Full-Stack & AI Engineer | MERN, ML, LLMs
+<h1 align="center">Hi 👋, I'm Laukik Parashare</h1>
+<h3 align="center">🚀 Full-Stack & AI Engineer | MERN • ML • LLMs</h3>
 
-Final-year engineering student building production-ready full-stack and AI systems.  
-Focused on backend engineering, LLM-based applications, and clean system design.  
-Currently seeking SDE and internship opportunities.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Building+Scalable+Systems;LLM+%7C+AI+Engineer;MERN+Stack+Developer;Backend+Focused+Developer" />
+</p>
+
+---
+
+## 🌌 About Me
+
+✨ Final-year engineering student building **production-ready systems**  
+⚡ Focused on **Backend Engineering + AI Systems + LLM Applications**  
+🧠 Strong in **DSA, System Design, APIs, ML Integration**  
+🎯 Currently seeking **SDE & Internship Opportunities**
+
+---
 
 ## 🧩 Tech Stack
 
 ### 🧠 Core
-![DSA](https://img.shields.io/badge/DSA-000000?style=flat&logo=codeforces&logoColor=white)
-![OOP](https://img.shields.io/badge/OOP-000000?style=flat&logo=cplusplus&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-000000?style=flat&logo=postman&logoColor=white)
+![DSA](https://img.shields.io/badge/DSA-111111?style=for-the-badge&logo=codeforces&logoColor=yellow)
+![OOP](https://img.shields.io/badge/OOP-111111?style=for-the-badge&logo=cplusplus&logoColor=blue)
+![REST API](https://img.shields.io/badge/REST_API-111111?style=for-the-badge&logo=postman&logoColor=orange)
 
 ### 🌐 Frontend
-![React](https://img.shields.io/badge/React-000000?style=flat&logo=react)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-000000?style=flat&logo=tailwind-css)
+![React](https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=yellow)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-111111?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8)
 
 ### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat&logo=node.js)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express)
-![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=flat&logo=fastapi)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jwt)
+![Node](https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=node.js&logoColor=green)
+![Express](https://img.shields.io/badge/Express-111111?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-111111?style=for-the-badge&logo=fastapi&logoColor=00C7B7)
+![JWT](https://img.shields.io/badge/JWT-111111?style=for-the-badge&logo=jsonwebtokens&logoColor=red)
 
 ### 🤖 AI / ML
-![Python](https://img.shields.io/badge/Python-000000?style=flat&logo=python)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-000000?style=flat&logo=scikitlearn)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-000000?style=flat&logo=tensorflow)
+![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=yellow)
+![ML](https://img.shields.io/badge/Machine_Learning-111111?style=for-the-badge&logo=scikitlearn&logoColor=orange)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-111111?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
 
-### 🗄 Databases & Tools
-![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=flat&logo=mongodb)
-![Git](https://img.shields.io/badge/Git-000000?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github)
+### 🗄️ Database & Tools
+![MongoDB](https://img.shields.io/badge/MongoDB-111111?style=for-the-badge&logo=mongodb&logoColor=green)
+![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=red)
+![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)
+
+---
 
 ## 🚀 Featured Projects
 
 ### 🔷 AI Log – Intelligent Log Analysis System  
-**AI-powered system for detecting anomalies and generating insights from application logs**
+🧠 AI-powered system to detect anomalies & generate insights from logs  
 
-**What it does:**  
-Helps engineers analyze large volumes of logs, identify anomalies, and extract meaningful insights using AI-driven logic.
+⚡ **Highlights**
+- AI-driven anomaly detection  
+- Backend-heavy architecture  
+- Scalable log processing  
 
-**Tech Stack:**  
+🛠 **Tech Stack**  
 `React` `Node.js` `Express` `Python` `MongoDB`
 
-**Focus Areas:**  
-Backend architecture · AI integration · Scalable system design  
-
-**Status:** In active development  
-
-🌐 **Live Demo:**  
+🌐 **Live Demo**  
 https://ai-log-intelligence-frontend.vercel.app/
 
-🔗 **Main Repo:**  
-https://github.com/Rockyyy2312/AI-log-Intelligence-system  
-
-🔗 **Sub Repos:**  
-Frontend → https://github.com/Rockyyy2312/AI-log-Intelligence-frontend  
-ML Service → https://github.com/Rockyyy2312/AI-log-Intelligence-system-ml  
+🔗 **Repos**
+- Main → https://github.com/Rockyyy2312/AI-log-Intelligence-system  
+- Frontend → https://github.com/Rockyyy2312/AI-log-Intelligence-frontend  
+- ML → https://github.com/Rockyyy2312/AI-log-Intelligence-system-ml  
 
 ---
 
-### 🔷 AdMyBrand Insights – Personal Finance Analytics Dashboard  
-**A modern frontend dashboard for visualizing and tracking personal finance metrics**
+### 🔷 AdMyBrand Insights – Finance Dashboard  
+📊 Interactive analytics dashboard for personal finance  
 
-**What it does:**  
-Provides an interactive interface to explore financial data through clean visualizations and modular UI components.
+⚡ **Highlights**
+- Clean UI/UX  
+- Data visualization  
+- Modular components  
 
-**Tech Stack:**  
+🛠 **Tech Stack**  
 `Next.js` `TypeScript` `Tailwind CSS`
 
-**Focus Areas:**  
-UI/UX · Data visualization · Component-based architecture  
-
-🌐 **Live Demo:**  
+🌐 **Live Demo**  
 https://admybrand-insights-ruby.vercel.app  
 
-🔗 **Repository:**  
+🔗 **Repo**  
 https://github.com/Rockyyy2312/admybrand-insights  
 
 ---
 
-📫 **LinkedIn:**
-https://www.linkedin.com/in/laukik-parashare-7373a326b/
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rockyyy2312&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rockyyy2312&theme=tokyonight&hide_border=true&border_radius=10" height="160"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/laukik-parashare-7373a326b/">
+    <img src="https://img.shields.io/badge/LinkedIn-Laukik%20Parashare-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## ⚡ Personal Edge
+
+- 🧠 Backend-first mindset  
+- 🤖 Building real-world AI systems  
+- ⚙️ Strong in system design thinking  
+- 🚀 Focused on impactful, production-ready projects  
+
+---
+
+<p align="center">
+  💡 "Code. Scale. Solve Real Problems."
+</p>
