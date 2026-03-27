@@ -20,7 +20,7 @@
 </p>
 
 <p>
-  I am a final-year Computer Science student deeply passionate about engineering<br>
+  I am a final-year Information Technology student deeply passionate about engineering<br>
   <b>robust backend architectures</b> and integrating <b>intelligent machine learning pipelines</b>.<br>
   My focus lies at the intersection of scalable data processing and modern web applications,<br>
   where I architect high-performance infrastructures and AI-driven workflows.<br>
