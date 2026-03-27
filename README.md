@@ -11,7 +11,7 @@
 <br/>
 
 <!-- Secondary Typing Effect for Titles -->
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=24&pause=2000&color=7A00FF&center=true&vCenter=true&width=700&lines=Backend+Architect;AI+Systems+Engineer;Final-Year+CS+Student" alt="Typing Titles" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=24&pause=2000&color=7A00FF&center=true&vCenter=true&width=700&lines=Backend+Architect;AI+Systems+Engineer;Final-Year+IT+Student" alt="Typing Titles" />
 
 <br/><br/>
 
