@@ -1,102 +1,156 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=LAUKIK+PARASHARE;BUILDING+SCALABLE+BACKEND+SYSTEMS;ENGINEERING+AI+%26+LLM+PIPELINES" alt="Typing effect" />
+<!-- Breathtaking Animated Gradient Hero Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&animation=twinkling" width="100%" alt="Header Gradient" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Rockyyy2312&style=for-the-badge&color=7A00FF&label=PROFILE+VIEWS&labelColor=0a0a0a" alt="View Counter" />
+<!-- Guaranteed 100% Visible Bold Name & Intro -->
+<h1><b>LAUKIK PARASHARE</b></h1>
+<h3><b>Backend Architect & AI Systems Engineer</b></h3>
 
-<br/><br/>
+<p>
+  <b><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="30" /> Final-Year CS Student engineering highly scalable systems and intelligent ML workflows.</b>
+</p>
 
-**Backend & AI Systems Engineer** • Final-Year CS Student • Problem Solver<br/>
-Forging **production-ready backend architectures** and **intelligent AI workflows**.
+<p>
+  <img src="https://img.shields.io/badge/DSA-0a0a0a?style=for-the-badge&logo=leetcode&logoColor=00F7FF" alt="DSA" />
+  <img src="https://img.shields.io/badge/SYSTEM_DESIGN-0a0a0a?style=for-the-badge&logo=diagramsdotnet&logoColor=7A00FF" alt="System Design" />
+  <img src="https://img.shields.io/badge/APIS-0a0a0a?style=for-the-badge&logo=postman&logoColor=00F7FF" alt="APIs" />
+</p>
 
 </div>
 
 <br/>
 
-<h2 align="center">🌌 CORE TECHNOLOGIES</h2>
+---
 
+<br/>
+
+<h2 align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="40" />
+  <b>PREMIUM TECH ARSENAL</b>
+</h2>
+
+<!-- These glassmorphism icons trigger an interactive opacity hover effect because they are wrapped in <a> tags -->
 <p align="center">
-  <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=cpp,py,js,ts,react,nextjs,tailwind&theme=dark" alt="Frontend & Languages" />
+  <a href="#premium-tech-arsenal">
+    <img src="https://skillicons.dev/icons?i=cpp,py,js,ts,react,nextjs,tailwind&theme=dark" alt="Tech Stack 1" />
   </a>
   <br/><br/>
-  <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,tensorflow,git,docker&theme=dark" alt="Backend & Tools" />
+  <a href="#premium-tech-arsenal">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,tensorflow,git,docker&theme=dark" alt="Tech Stack 2" />
   </a>
 </p>
 
-<br/>
-
-<h2 align="center">⚡ REAL-TIME CONTRIBUTION GRAPH</h2>
-
-<!-- This generates a massive, beautiful wave graph of your commits from the last 31 days natively -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rockyyy2312&bg_color=0a0a0a&color=00F7FF&line=7A00FF&point=ffffff&area=true&hide_border=true" alt="Activity Graph" width="100%" /> 
+  <i>(Hover over the glass icons to interact)</i>
 </p>
 
 <br/>
 
-<h2 align="center">🚀 FEATURED REPOSITORIES (LIVE DATA)</h2>
-
-<!-- These dynamic cards fetch exact stars, forks, and repos directly from your GitHub profile -->
-<table width="100%" border="0">
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <a href="https://github.com/Rockyyy2312/AI-log-Intelligence-system">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rockyyy2312&repo=AI-log-Intelligence-system&bg_color=0a0a0a&title_color=00F7FF&text_color=9f9f9f&icon_color=7A00FF&border_color=7A00FF&border_radius=10" width="100%" alt="AI Log Repo" />
-      </a>
-      <br/><br/>
-      <div align="left">
-        <ul>
-          <li><b>AI-based anomaly detection</b> in complex logs</li>
-          <li><b>Backend-heavy</b> scalable processing</li>
-          <li><b>Tech:</b> React, Node, Python, MongoDB</li>
-        </ul>
-      </div>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <a href="https://github.com/Rockyyy2312/admybrand-insights">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rockyyy2312&repo=admybrand-insights&bg_color=0a0a0a&title_color=7A00FF&text_color=9f9f9f&icon_color=00F7FF&border_color=00F7FF&border_radius=10" width="100%" alt="AdMyBrand Insights" />
-      </a>
-      <br/><br/>
-      <div align="left">
-        <ul>
-          <li><b>Interactive financial</b> analytics</li>
-          <li><b>Modular UI</b> architecture</li>
-          <li><b>Tech:</b> Next.js, TS, Tailwind CSS</li>
-        </ul>
-      </div>
-    </td>
-  </tr>
-</table>
+---
 
 <br/>
 
-<h2 align="center">📊 GITHUB STATS & DYNAMICS</h2>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rockyyy2312&theme=radical&no-bg=true&no-frame=true&margin-w=15" alt="Trophies" />
-</p>
-
-<br/>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rockyyy2312&show_icons=true&bg_color=0a0a0a&title_color=00F7FF&text_color=9f9f9f&icon_color=7A00FF&border_color=7A00FF&border_radius=10&include_all_commits=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rockyyy2312&background=0a0a0a&stroke=0a0a0a&ring=7A00FF&fire=00F7FF&currStreakNum=ffffff&currStreakLabel=7A00FF&sideNums=ffffff&sideLabels=9f9f9f&dates=9f9f9f&border=7A00FF&border_radius=10" width="48%" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rockyyy2312&layout=compact&bg_color=0a0a0a&title_color=00F7FF&text_color=9f9f9f&border_color=7A00FF&border_radius=10" width="50%" alt="Top Languages" />
-</p>
+<h2 align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="40" />
+  <b>FEATURED PRODUCTIONS</b>
+</h2>
 
 <br/>
 
-<h2 align="center">🌐 LET'S CONNECT</h2>
+<!-- Premium Project Block 1 -->
+<div align="center">
+  
+  <h2><b>🧠 AI LOG – Intelligence System</b></h2>
+  <p><i>An advanced AI-driven log analysis engine built for heavy scalable backend systems.</i></p>
+  
+  <blockquote>
+    <p><b>🎯 HIGHLIGHTS:</b> AI Anomaly Detection • High-Performance Backend Routing • Massive Data Logging</p>
+  </blockquote>
+  
+  <p>
+    <img src="https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+    <img src="https://img.shields.io/badge/NODE.JS-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node" />
+    <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/MONGODB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  </p>
+  
+  <p>
+    <a href="https://ai-log-intelligence-frontend.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/🌐_LIVE_DEMO-00F7FF?style=for-the-badge&logoColor=black&color=000000" alt="Live Demo" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://github.com/Rockyyy2312/AI-log-Intelligence-system" target="_blank">
+      <img src="https://img.shields.io/badge/💻_SOURCE_CODE-7A00FF?style=for-the-badge&logoColor=white&color=000000" alt="Source Code" />
+    </a>
+  </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/laukik-parashare-7373a326b/"><img src="https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=00F7FF" alt="LinkedIn" /></a>
-  <a href="https://github.com/Rockyyy2312"><img src="https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=7A00FF" alt="GitHub" /></a>
-  <a href="https://ai-log-intelligence-frontend.vercel.app/"><img src="https://img.shields.io/badge/Live_Portfolio-0a0a0a?style=for-the-badge&logo=vercel&logoColor=00F7FF" alt="Portfolio" /></a>
+</div>
+
+<br/>
+<hr/>
+<br/>
+
+<!-- Premium Project Block 2 -->
+<div align="center">
+  
+  <h2><b>📊 AdMyBrand Insights</b></h2>
+  <p><i>An interactive financial analytics dashboard crafted with a highly modular UI architecture.</i></p>
+  
+  <blockquote>
+    <p><b>🎯 HIGHLIGHTS:</b> Financial Data Visualization • Real-Time Analytics • Fluid Responsive Frontend</p>
+  </blockquote>
+  
+  <p>
+    <img src="https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+    <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/TAILWIND-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  </p>
+  
+  <p>
+    <a href="https://admybrand-insights-ruby.vercel.app" target="_blank">
+      <img src="https://img.shields.io/badge/🌐_LIVE_DEMO-00F7FF?style=for-the-badge&logoColor=black&color=000000" alt="Live Demo" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://github.com/Rockyyy2312/admybrand-insights" target="_blank">
+      <img src="https://img.shields.io/badge/💻_SOURCE_CODE-7A00FF?style=for-the-badge&logoColor=white&color=000000" alt="Source Code" />
+    </a>
+  </p>
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<h2 align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="40" />
+  <b>LET'S CONNECT</b>
+</h2>
+
+<div align="center">
+
+<p>
+  <!-- Replace the href string with your actual email if needed -->
+  <a href="mailto:your.email@example.com">
+     <img src="https://img.shields.io/badge/EMAIL_ME-00F7FF?style=for-the-badge&logo=gmail&logoColor=000000&color=0a0a0a" alt="Email" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/laukik-parashare-7373a326b/">
+     <img src="https://img.shields.io/badge/LINKEDIN-00F7FF?style=for-the-badge&logo=linkedin&logoColor=000000&color=0a0a0a" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Rockyyy2312">
+     <img src="https://img.shields.io/badge/GITHUB-7A00FF?style=for-the-badge&logo=github&logoColor=ffffff&color=0a0a0a" alt="GitHub" />
+  </a>
 </p>
+
+<br/><br/>
+
+<h3><b><i>"Code. Scale. Solve Real Problems."</i></b></h3>
+
+</div>
