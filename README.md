@@ -482,13 +482,25 @@ Python-based cloud applications
 
 </table>
 
-📊 GITHUB ANALYTICS
+📊 GITHUB
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Rockyyy2312&show_icons=true&hide_border=true&bg_color=0d1117&title_color=f0f6fc&text_color=c9d1d9&icon_color=c9d1d9&rank_icon=github" height="180" />
+<a href="https://github.com/Rockyyy2312">
+<img src="https://img.shields.io/badge/GitHub-Rockyyy2312-0d1117?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rockyyy2312&layout=compact&hide_border=true&bg_color=0d1117&title_color=f0f6fc&text_color=c9d1d9" height="180" />
+ 
+
+<a href="https://github.com/Rockyyy2312?tab=repositories">
+<img src="https://img.shields.io/badge/Repositories-View%20Projects-161b22?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+ 
+
+<a href="https://github.com/Rockyyy2312?tab=stars">
+<img src="https://img.shields.io/badge/Stars-Explore-161b22?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
 
@@ -496,7 +508,15 @@ Python-based cloud applications
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Rockyyy2312&theme=github-dark-blue&hide_border=true&background=0D1117&ring=94A3B8&fire=FFFFFF&currStreakLabel=FFFFFF" width="70%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rockyyy2312&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=f0f6fc&area=true&hide_border=true&custom_title=Development%20Activity" width="95%" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rockyyy2312&theme=github_dark" width="95%" />
 
 </div>
 
