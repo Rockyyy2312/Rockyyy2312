@@ -492,36 +492,6 @@ Hands-on exposure to:
 
 ---
 
-# 📈 DEVELOPMENT ACTIVITY
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rockyyy2312&bg_color=0f172a&color=94a3b8&line=64748b&point=ffffff&area=true&hide_border=true" width="95%" />
-
-</div>
-
----
-
-# 🧊 3D CONTRIBUTION PROFILE
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Rockyyy2312/Rockyyy2312/main/profile-3d-contrib/profile-night-view.svg" width="95%" />
-
-</div>
-
----
-
-# 🐍 CONTRIBUTION SNAKE
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Rockyyy2312/Rockyyy2312/output/github-contribution-grid-snake-dark.svg" width="95%" />
-
-</div>
-
----
-
 # 🧩 ENGINEERING MINDSET
 
 <div align="center">
