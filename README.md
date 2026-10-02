@@ -6,14 +6,6 @@
 
 <br/>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=Rockyyy2312&label=PROFILE+VIEWS&color=30363d&style=flat-square" />
-  &nbsp;
-  <img src="https://img.shields.io/github/followers/Rockyyy2312?label=FOLLOWERS&style=flat-square&color=30363d" />
-  &nbsp;
-  <img src="https://img.shields.io/github/stars/Rockyyy2312?label=STARS&style=flat-square&color=30363d" />
-</p>
-
 </div>
 
 <div align="center">
@@ -482,43 +474,6 @@ Python-based cloud applications
 
 </table>
 
-📊 GITHUB
-
-<div align="center">
-
-<a href="https://github.com/Rockyyy2312">
-<img src="https://img.shields.io/badge/GitHub-Rockyyy2312-0d1117?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
- 
-
-<a href="https://github.com/Rockyyy2312?tab=repositories">
-<img src="https://img.shields.io/badge/Repositories-View%20Projects-161b22?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
- 
-
-<a href="https://github.com/Rockyyy2312?tab=stars">
-<img src="https://img.shields.io/badge/Stars-Explore-161b22?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rockyyy2312&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=f0f6fc&area=true&hide_border=true&custom_title=Development%20Activity" width="95%" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rockyyy2312&theme=github_dark" width="95%" />
-
-</div>
 
 🧩 ENGINEERING MINDSET
 
