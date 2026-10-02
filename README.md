@@ -1,181 +1,756 @@
 <div align="center">
 
-<!-- Breathtaking Animated Gradient Hero Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&animation=twinkling" width="100%" alt="Header Gradient" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:111827,100:1e293b&height=220&section=header&text=LAUKIK%20PARASHARE&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%" />
+
+<img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=600&size=22&pause=1800&color=94A3B8&center=true&vCenter=true&width=850&lines=Software+Engineer;Machine+Learning+%26+AI+Engineer;Backend+%26+Cloud+Developer;Building+Systems+That+Solve+Real+Problems" />
 
 <br/>
 
-<!-- Massive Typing Effect for Name with 3s Timeout -->
-<img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&weight=900&size=45&pause=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=LAUKIK+PARASHARE" alt="Typing Name" />
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Rockyyy2312&label=PROFILE+VIEWS&color=334155&style=flat-square" />
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/Rockyyy2312?label=FOLLOWERS&style=flat-square&color=334155" />
+  &nbsp;
+  <img src="https://img.shields.io/github/stars/Rockyyy2312?label=STARS&style=flat-square&color=334155" />
+</p>
+
+</div>
+
+---
+
+<div align="center">
+
+# `whoami`
+
+### Software Engineer • AI/ML • Backend • Cloud
+
+<p>
+I build <b>AI-powered applications, backend systems, and cloud-ready infrastructure</b>.
+</p>
+
+<p>
+My work sits at the intersection of
+<br/>
+<b>Software Engineering × Machine Learning × Backend Systems × Cloud</b>
+</p>
+
+<p>
+I enjoy taking messy real-world problems, breaking them into engineering problems,
+<br/>
+and turning them into systems that actually work.
+</p>
 
 <br/>
 
-<!-- Secondary Typing Effect for Titles -->
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=24&pause=2000&color=7A00FF&center=true&vCenter=true&width=700&lines=Backend+Architect;AI+Systems+Engineer;Final-Year+IT+Student" alt="Typing Titles" />
+> <b>I don't just want to build software.</b>
+>
+> <b>I want to build systems that make difficult things easier.</b>
+
+</div>
+
+---
+
+# ⚡ CURRENT FOCUS
+
+<table align="center">
+<tr>
+
+<td width="50%" valign="top">
+
+<h3 align="center">🧠 Artificial Intelligence</h3>
+
+<p align="center">
+
+Machine Learning  
+<br/>
+LLM Applications  
+<br/>
+RAG Pipelines  
+<br/>
+Vector Embeddings  
+<br/>
+Prompt Engineering  
+<br/>
+AI-powered Systems
+
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">☁️ Engineering</h3>
+
+<p align="center">
+
+Backend Architecture  
+<br/>
+REST APIs  
+<br/>
+Cloud Infrastructure  
+<br/>
+Docker  
+<br/>
+AWS  
+<br/>
+Scalable Data Processing
+
+</p>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🛠️ ENGINEERING STACK
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=python,cpp,java,js,sql" />
 
 <br/><br/>
 
-<p>
-  <b><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="30" /> Welcome to my digital workspace!</b>
-</p>
+### AI / Machine Learning
 
-<p>
-  I am a final-year Information Technology student deeply passionate about engineering<br>
-  <b>robust backend architectures</b> and integrating <b>intelligent machine learning pipelines</b>.<br>
-  My focus lies at the intersection of scalable data processing and modern web applications,<br>
-  where I architect high-performance infrastructures and AI-driven workflows.<br>
-  Always eager to build impactful products and tackle complex engineering challenges.
-</p>
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="40" />
-  <b>PREMIUM TECH ARSENAL</b>
-</h2>
-
-<br/>
-
-<div align="center">
-
-<h3><b>☁️ Cloud & DevOps</b></h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,git,github&theme=dark" alt="Cloud" />
-</p>
-
-<br/>
-
-<h3><b>⚛️ MERN Stack</b></h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs&theme=dark" alt="MERN Stack" />
-</p>
-
-<br/>
-
-<h3><b>🐍 Python & AI</b></h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,tensorflow,fastapi&theme=dark" alt="Python & AI" />
-</p>
-
-<br/>
-
-<h3><b>🛠️ Core & Tools</b></h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,js,ts,tailwind,postman&theme=dark" alt="Core & Tools" />
-</p>
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="40" />
-  <b>FEATURED PRODUCTIONS</b>
-</h2>
-
-<br/>
-
-<!-- Premium Project Block 1 -->
-<div align="center">
-  
-  <h2><b>🧠 AI LOG – Intelligence System</b></h2>
-  <p><i>An advanced AI-driven log analysis engine built for heavy scalable backend systems.</i></p>
-  
-  <blockquote>
-    <p><b>🎯 HIGHLIGHTS:</b> AI Anomaly Detection • High-Performance Backend Routing • Massive Data Logging</p>
-  </blockquote>
-  
-  <p>
-    <img src="https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-    <img src="https://img.shields.io/badge/NODE.JS-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node" />
-    <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-    <img src="https://img.shields.io/badge/MONGODB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  </p>
-  
-  <p>
-    <a href="https://ai-log-intelligence-frontend.vercel.app/" target="_blank">
-      <img src="https://img.shields.io/badge/🌐_LIVE_DEMO-00F7FF?style=for-the-badge&logoColor=black&color=000000" alt="Live Demo" />
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://github.com/Rockyyy2312/AI-log-Intelligence-system" target="_blank">
-      <img src="https://img.shields.io/badge/💻_SOURCE_CODE-7A00FF?style=for-the-badge&logoColor=white&color=000000" alt="Source Code" />
-    </a>
-  </p>
-
-</div>
-
-<br/>
-<hr/>
-<br/>
-
-<!-- Premium Project Block 2 -->
-<div align="center">
-  
-  <h2><b>📊 AdMyBrand Insights</b></h2>
-  <p><i>An interactive financial analytics dashboard crafted with a highly modular UI architecture.</i></p>
-  
-  <blockquote>
-    <p><b>🎯 HIGHLIGHTS:</b> Financial Data Visualization • Real-Time Analytics • Fluid Responsive Frontend</p>
-  </blockquote>
-  
-  <p>
-    <img src="https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-    <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-    <img src="https://img.shields.io/badge/TAILWIND-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  </p>
-  
-  <p>
-    <a href="https://admybrand-insights-ruby.vercel.app" target="_blank">
-      <img src="https://img.shields.io/badge/🌐_LIVE_DEMO-00F7FF?style=for-the-badge&logoColor=black&color=000000" alt="Live Demo" />
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://github.com/Rockyyy2312/admybrand-insights" target="_blank">
-      <img src="https://img.shields.io/badge/💻_SOURCE_CODE-7A00FF?style=for-the-badge&logoColor=white&color=000000" alt="Source Code" />
-    </a>
-  </p>
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="40" />
-  <b>LET'S CONNECT</b>
-</h2>
-
-<div align="center">
-
-<p>
-  <!-- Drop your email string in the href below -->
-  <a href="mailto:your.email@example.com">
-     <img src="https://img.shields.io/badge/EMAIL_ME-00F7FF?style=for-the-badge&logo=gmail&logoColor=000000&color=0a0a0a" alt="Email" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/laukik-parashare-7373a326b/">
-     <img src="https://img.shields.io/badge/LINKEDIN-00F7FF?style=for-the-badge&logo=linkedin&logoColor=000000&color=0a0a0a" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/Rockyyy2312">
-     <img src="https://img.shields.io/badge/GITHUB-7A00FF?style=for-the-badge&logo=github&logoColor=ffffff&color=0a0a0a" alt="GitHub" />
-  </a>
-</p>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
 
 <br/><br/>
 
-<h3><b><i>"Code. Scale. Solve Real Problems."</i></b></h3>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/RAG-111827?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/LLM_Applications-111827?style=for-the-badge&logo=probot&logoColor=white" />
+<img src="https://img.shields.io/badge/Vector_Embeddings-111827?style=for-the-badge&logo=databricks&logoColor=white" />
+
+<br/><br/>
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express" />
+
+<br/><br/>
+
+### Databases
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+
+<br/><br/>
+
+### Cloud & DevOps
+
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github" />
+
+<br/><br/>
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=vscode,postman" />
+
+</div>
+
+---
+
+# 🧠 FEATURED SYSTEMS
+
+## 🔭 AI Log Intelligence & Observability System
+
+<p>
+An AI-powered observability platform designed around
+<b>real-time log ingestion, analysis, anomaly detection, and debugging workflows.</b>
+</p>
+
+### System Architecture
+
+<table>
+<tr>
+<td align="center">
+
+<b>Application Logs</b>
+
+</td>
+<td>→</td>
+<td align="center">
+
+<b>Log Ingestion</b>
+
+</td>
+<td>→</td>
+<td align="center">
+
+<b>Processing</b>
+
+</td>
+<td>→</td>
+<td align="center">
+
+<b>ML Analysis</b>
+
+</td>
+<td>→</td>
+<td align="center">
+
+<b>Visualization</b>
+
+</td>
+</tr>
+</table>
+
+### Core Engineering
+
+- Real-time log ingestion
+- Socket.IO live log streaming
+- Automated pattern detection
+- ML-based anomaly detection
+- REST APIs
+- Interactive monitoring dashboards
+- Log filtering and metadata processing
+- Dockerized services
+- AWS deployment architecture
+
+### Technology
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,react,nodejs,mongodb,docker,aws" />
+
+</div>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white" />
+<img src="https://img.shields.io/badge/Machine_Learning-111827?style=flat-square&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/REST_API-111827?style=flat-square&logo=fastapi&logoColor=white" />
+
+</p>
+
+<div align="center">
+
+<a href="https://ai-log-intelligence-frontend.vercel.app/">
+<img src="https://img.shields.io/badge/🌐_LIVE_DEMO-0f172a?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+&nbsp;
+
+<a href="https://github.com/Rockyyy2312/AI-log-Intelligence-system">
+<img src="https://img.shields.io/badge/💻_SOURCE_CODE-0f172a?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+## 🏥 Patient-Owned Health Data Platform
+
+<p>
+A secure healthcare platform focused on
+<b>patient-controlled medical records, authentication, access control, and data integrity.</b>
+</p>
+
+### System Architecture
+
+<table align="center">
+<tr>
+<td align="center">
+
+👤 Patient
+
+</td>
+<td>→</td>
+<td align="center">
+
+🔐 Authentication
+
+</td>
+<td>→</td>
+<td align="center">
+
+🛡️ Access Control
+
+</td>
+<td>→</td>
+<td align="center">
+
+⚙️ REST API
+
+</td>
+<td>→</td>
+<td align="center">
+
+🗄️ Medical Data
+
+</td>
+</tr>
+</table>
+
+### Key Features
+
+- JWT authentication
+- Role-based access control
+- Django REST Framework APIs
+- Secure healthcare data handling
+- SHA-256 integrity verification
+- Blockchain-inspired verification
+- Dockerized backend
+- Modular architecture
+- Patient-controlled record management
+
+### Technology
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=nextjs,django,python,docker,postgres" />
+
+</div>
+
+---
+
+# 💼 EXPERIENCE
+
+## EY Global Delivery Services
+
+### Software Engineering Intern
+
+`February 2025 → March 2025`
+
+#### Personal Finance Tracking Platform
+
+A full-stack financial tracking application designed around financial records, budgeting, and analytics.
+
+### Engineering Work
+
+- Architected a full-stack financial tracking application
+- Built 5+ integrated application modules
+- Developed RESTful APIs
+- Implemented validation logic
+- Managed 100+ structured financial records per user
+- Maintained data consistency
+- Translated business requirements into modular software solutions
+- Worked with the MERN stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" />
+
+</div>
+
+---
+
+# ☁️ CLOUD ARCHITECTURE
+
+<div align="center">
+
+<table>
+
+<tr>
+
+<td align="center">
+<b>CLIENT</b>
+</td>
+
+<td>→</td>
+
+<td align="center">
+<b>REST APIs</b>
+</td>
+
+<td>→</td>
+
+<td align="center">
+<b>APPLICATION SERVER</b>
+</td>
+
+</tr>
+
+<tr>
+
+<td></td>
+<td></td>
+
+<td></td>
+<td></td>
+
+<td align="center">
+↓
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+<b>AWS EC2</b>
+</td>
+
+<td>←</td>
+
+<td align="center">
+<b>AWS RDS</b>
+</td>
+
+<td>←</td>
+
+<td align="center">
+<b>AWS S3</b>
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+### Cloud & DevOps
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/AWS_EC2-111827?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
+<img src="https://img.shields.io/badge/AWS_S3-111827?style=for-the-badge&logo=amazons3&logoColor=FF9900" />
+<img src="https://img.shields.io/badge/AWS_RDS-111827?style=for-the-badge&logo=amazonrds&logoColor=527FFF" />
+<img src="https://img.shields.io/badge/AWS_IAM-111827?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
+
+</div>
+
+---
+
+# 🎓 EDUCATION
+
+<div align="center">
+
+### Bachelor of Engineering — Information Technology
+
+### Savitribai Phule Pune University
+
+`2022 — 2026`
+
+</div>
+
+---
+
+# 📜 CERTIFICATIONS
+
+<table align="center">
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🧠 Machine Learning Specialization
+
+Practical exposure to:
+
+- Supervised Learning
+- Unsupervised Learning
+- Reinforcement Learning
+- Machine Learning projects
+
+</td>
+
+<td width="50%" valign="top">
+
+### ☁️ AWS with Python
+
+Hands-on exposure to:
+
+- EC2
+- S3
+- RDS
+- IAM
+- Python-based cloud applications
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 📊 GITHUB ANALYTICS
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Rockyyy2312&show_icons=true&hide_border=true&bg_color=0f172a&title_color=ffffff&text_color=94a3b8&icon_color=94a3b8&rank_icon=github" height="180" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rockyyy2312&layout=compact&hide_border=true&bg_color=0f172a&title_color=ffffff&text_color=94a3b8" height="180" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Rockyyy2312&theme=github-dark-blue&hide_border=true&background=0F172A&ring=94A3B8&fire=FFFFFF&currStreakLabel=FFFFFF" width="70%" />
+
+</div>
+
+---
+
+# 📈 DEVELOPMENT ACTIVITY
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rockyyy2312&bg_color=0f172a&color=94a3b8&line=64748b&point=ffffff&area=true&hide_border=true" width="95%" />
+
+</div>
+
+---
+
+# 🧊 3D CONTRIBUTION PROFILE
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Rockyyy2312/Rockyyy2312/main/profile-3d-contrib/profile-night-view.svg" width="95%" />
+
+</div>
+
+---
+
+# 🐍 CONTRIBUTION SNAKE
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Rockyyy2312/Rockyyy2312/output/github-contribution-grid-snake-dark.svg" width="95%" />
+
+</div>
+
+---
+
+# 🧩 ENGINEERING MINDSET
+
+<div align="center">
+
+<table>
+
+<tr>
+<td align="center">
+
+### 01
+
+🧠
+
+<b>Understand</b>
+
+<br/>
+
+Understand the real problem.
+
+</td>
+
+<td>→</td>
+
+<td align="center">
+
+### 02
+
+🔍
+
+<b>Decompose</b>
+
+<br/>
+
+Break complexity into smaller systems.
+
+</td>
+
+<td>→</td>
+
+<td align="center">
+
+### 03
+
+🏗️
+
+<b>Architect</b>
+
+<br/>
+
+Design before writing unnecessary code.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+### 04
+
+⚙️
+
+<b>Build</b>
+
+<br/>
+
+Turn ideas into working software.
+
+</td>
+
+<td>→</td>
+
+<td align="center">
+
+### 05
+
+🧪
+
+<b>Test</b>
+
+<br/>
+
+Break it before users do.
+
+</td>
+
+<td>→</td>
+
+<td align="center">
+
+### 06
+
+🚀
+
+<b>Deploy</b>
+
+<br/>
+
+Make it useful in the real world.
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+> ### **Complexity is not the goal.**
+>
+> ### **Solving the problem is.**
+
+</div>
+
+---
+
+# 🔭 WHAT I'M BUILDING TOWARD
+
+<div align="center">
+
+<table>
+
+<tr>
+
+<td align="center" width="25%">
+
+🤖
+
+<br/>
+
+<b>AI Systems</b>
+
+<br/>
+
+Intelligent applications that solve practical problems.
+
+</td>
+
+<td align="center" width="25%">
+
+⚙️
+
+<br/>
+
+<b>Backend Systems</b>
+
+<br/>
+
+Reliable APIs and scalable architectures.
+
+</td>
+
+<td align="center" width="25%">
+
+☁️
+
+<br/>
+
+<b>Cloud Engineering</b>
+
+<br/>
+
+Deployable and production-oriented infrastructure.
+
+</td>
+
+<td align="center" width="25%">
+
+💡
+
+<br/>
+
+<b>Real Impact</b>
+
+<br/>
+
+Technology that makes people's lives easier.
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+---
+
+# 📫 LET'S CONNECT
+
+<div align="center">
+
+<a href="mailto:laukikparashare@gmail.com">
+
+<img src="https://img.shields.io/badge/EMAIL-0f172a?style=for-the-badge&logo=gmail&logoColor=white" />
+
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/laukik-parashare-7373a326b/">
+
+<img src="https://img.shields.io/badge/LINKEDIN-0f172a?style=for-the-badge&logo=linkedin&logoColor=white" />
+
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://github.com/Rockyyy2312">
+
+<img src="https://img.shields.io/badge/GITHUB-0f172a?style=for-the-badge&logo=github&logoColor=white" />
+
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### `Build. Learn. Solve. Repeat.`
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,50:111827,100:0f172a&height=120&section=footer" width="100%" />
 
 </div>
