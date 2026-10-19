@@ -1,155 +1,227 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0f172a,100:1e293b&height=240&section=header&text=Laukik%20Parashare&fontSize=52&fontColor=f8fafc&fontAlignY=45&desc=Software%20Engineer%20%7C%20AI%20%26%20ML%20%7C%20Backend%20%7C%20Cloud&descSize=17&descAlignY=68&descColor=94a3b8" width="100%" alt="Laukik Parashare" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0f172a,100:1e293b&height=240&section=header&text=Laukik%20Parashare&fontSize=52&fontColor=f8fafc&fontAlignY=45&desc=Software%20Engineer&descSize=17&descAlignY=68&descColor=94a3b8" width="100%" alt="Laukik Parashare" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1200&color=94A3B8&center=true&vCenter=true&width=700&height=40&lines=Building+AI-powered+applications;Designing+backend+systems+and+APIs;Deploying+production-ready+cloud+services" alt="Typing SVG" />
-
-<br/>
-
-<a href="mailto:laukikparashare@gmail.com"><img src="https://img.shields.io/badge/Email-1e293b?style=flat-square&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/laukik-parashare-7373a326b/"><img src="https://img.shields.io/badge/LinkedIn-1e293b?style=flat-square&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/Rockyyy2312"><img src="https://img.shields.io/badge/GitHub-1e293b?style=flat-square&logo=github&logoColor=white" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1200&color=94A3B8&center=true&vCenter=true&width=750&height=40&lines=AI+%26+Machine+Learning+Engineer;Backend+%26+Cloud+Developer;Building+systems+that+make+difficult+things+easier" alt="Typing SVG" />
 
 </div>
 
 <br/>
 
-I build AI-powered applications, backend systems, and cloud-ready infrastructure. I like taking messy real-world problems, breaking them down, and turning them into software that works.
+```mermaid
+graph TD
+    R(["about"])
+    R --> S(["skills"])
+    R --> P(["projects"])
+    R --> E(["education"])
+    S --> S0(["Languages"])
+    S --> S1(["AI / ML"])
+    S --> S2(["Backend"])
+    S --> S3(["Frontend"])
+    S --> S4(["Databases"])
+    S --> S5(["Cloud and DevOps"])
+    P --> P1(["AI Log Intelligence"])
+    P --> P2(["Patient Health Data"])
+    E --> E1(["B.E. IT, SPPU"])
+    class R root
+    class S,P,E l1
+    class S0,S1,S2,S3,S4,S5,P1,P2,E1 l2
+    classDef root fill:#334155,stroke:#94a3b8,color:#f8fafc,stroke-width:2px
+    classDef l1 fill:#1e293b,stroke:#64748b,color:#f8fafc
+    classDef l2 fill:#0f172a,stroke:#475569,color:#e2e8f0
+    classDef leaf fill:#0f172a,stroke:#334155,color:#cbd5e1
+```
 
-> Click any folder below to expand it.
+<div align="center"><sub>Click a branch to expand it</sub></div>
 
-<br/>
-
-<details open>
-<summary><b>📂 laukik/</b></summary>
 <br/>
 
 <details>
-<summary><b>📂 about/</b></summary>
-
-<br/>
-
-| | |
-|:--|:--|
-| **Role** | Software Engineer |
-| **Focus** | Machine Learning, LLM applications, backend systems, cloud |
-| **Education** | B.E. Information Technology, Savitribai Phule Pune University (2022 – 2026) |
-| **Working on** | AI Log Intelligence System, Patient-Owned Health Data Platform |
-
-</details>
-
-<details>
-<summary><b>📂 skills/</b></summary>
-
+<summary><b>skills</b></summary>
 <br/>
 
 <details>
-<summary>📂 languages/</summary>
-
+<summary><b>Languages</b></summary>
 <br/>
+
+```mermaid
+graph TD
+    R(["Languages"])
+    R --> N0(["Python"])
+    R --> N1(["C++"])
+    R --> N2(["Java"])
+    R --> N3(["JavaScript"])
+    R --> N4(["SQL"])
+    class R root
+    class N0,N1,N2,N3,N4 leaf
+    classDef root fill:#334155,stroke:#94a3b8,color:#f8fafc,stroke-width:2px
+    classDef l1 fill:#1e293b,stroke:#64748b,color:#f8fafc
+    classDef l2 fill:#0f172a,stroke:#475569,color:#e2e8f0
+    classDef leaf fill:#0f172a,stroke:#334155,color:#cbd5e1
+```
 
 <img src="https://skillicons.dev/icons?i=python,cpp,java,js,sql&theme=dark" />
 
 </details>
 
 <details>
-<summary>📂 ai-ml/</summary>
-
+<summary><b>AI / ML</b></summary>
 <br/>
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" />
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+```mermaid
+graph TD
+    R(["AI / ML"])
+    R --> N0(["Machine Learning"])
+    R --> N1(["LLM Applications"])
+    R --> N2(["RAG Pipelines"])
+    R --> N3(["Vector Embeddings"])
+    R --> N4(["Prompt Engineering"])
+    R --> N5(["PyTorch"])
+    R --> N6(["TensorFlow"])
+    R --> N7(["Scikit-Learn"])
+    class R root
+    class N0,N1,N2,N3,N4,N5,N6,N7 leaf
+    classDef root fill:#334155,stroke:#94a3b8,color:#f8fafc,stroke-width:2px
+    classDef l1 fill:#1e293b,stroke:#64748b,color:#f8fafc
+    classDef l2 fill:#0f172a,stroke:#475569,color:#e2e8f0
+    classDef leaf fill:#0f172a,stroke:#334155,color:#cbd5e1
+```
 
-Machine Learning · LLM Applications · RAG Pipelines · Vector Embeddings · Prompt Engineering
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" />
 
 </details>
 
 <details>
-<summary>📂 backend/</summary>
-
+<summary><b>Backend</b></summary>
 <br/>
+
+```mermaid
+graph TD
+    R(["Backend"])
+    R --> N0(["FastAPI"])
+    R --> N1(["Django REST"])
+    R --> N2(["Node.js"])
+    R --> N3(["Express"])
+    R --> N4(["REST APIs"])
+    R --> N5(["JWT and RBAC"])
+    class R root
+    class N0,N1,N2,N3,N4,N5 leaf
+    classDef root fill:#334155,stroke:#94a3b8,color:#f8fafc,stroke-width:2px
+    classDef l1 fill:#1e293b,stroke:#64748b,color:#f8fafc
+    classDef l2 fill:#0f172a,stroke:#475569,color:#e2e8f0
+    classDef leaf fill:#0f172a,stroke:#334155,color:#cbd5e1
+```
 
 <img src="https://skillicons.dev/icons?i=fastapi,django,nodejs,express&theme=dark" />
 
-REST APIs · Authentication · Role-based access control · Scalable data processing
-
 </details>
 
 <details>
-<summary>📂 frontend/</summary>
-
+<summary><b>Frontend</b></summary>
 <br/>
+
+```mermaid
+graph TD
+    R(["Frontend"])
+    R --> N0(["React"])
+    R --> N1(["Next.js"])
+    class R root
+    class N0,N1 leaf
+    classDef root fill:#334155,stroke:#94a3b8,color:#f8fafc,stroke-width:2px
+    classDef l1 fill:#1e293b,stroke:#64748b,color:#f8fafc
+    classDef l2 fill:#0f172a,stroke:#475569,color:#e2e8f0
+    classDef leaf fill:#0f172a,stroke:#334155,color:#cbd5e1
+```
 
 <img src="https://skillicons.dev/icons?i=react,nextjs&theme=dark" />
 
 </details>
 
 <details>
-<summary>📂 databases/</summary>
-
+<summary><b>Databases</b></summary>
 <br/>
+
+```mermaid
+graph TD
+    R(["Databases"])
+    R --> N0(["MongoDB"])
+    R --> N1(["MySQL"])
+    R --> N2(["PostgreSQL"])
+    class R root
+    class N0,N1,N2 leaf
+    classDef root fill:#334155,stroke:#94a3b8,color:#f8fafc,stroke-width:2px
+    classDef l1 fill:#1e293b,stroke:#64748b,color:#f8fafc
+    classDef l2 fill:#0f172a,stroke:#475569,color:#e2e8f0
+    classDef leaf fill:#0f172a,stroke:#334155,color:#cbd5e1
+```
 
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres&theme=dark" />
 
 </details>
 
 <details>
-<summary>📂 cloud-devops/</summary>
-
+<summary><b>Cloud and DevOps</b></summary>
 <br/>
+
+```mermaid
+graph TD
+    R(["Cloud and DevOps"])
+    R --> N0(["AWS EC2"])
+    R --> N1(["AWS S3"])
+    R --> N2(["AWS RDS"])
+    R --> N3(["AWS IAM"])
+    R --> N4(["Docker"])
+    R --> N5(["Git and GitHub"])
+    class R root
+    class N0,N1,N2,N3,N4,N5 leaf
+    classDef root fill:#334155,stroke:#94a3b8,color:#f8fafc,stroke-width:2px
+    classDef l1 fill:#1e293b,stroke:#64748b,color:#f8fafc
+    classDef l2 fill:#0f172a,stroke:#475569,color:#e2e8f0
+    classDef leaf fill:#0f172a,stroke:#334155,color:#cbd5e1
+```
 
 <img src="https://skillicons.dev/icons?i=aws,docker,git,github&theme=dark" />
 
-AWS EC2 · S3 · RDS · IAM · Docker
+</details>
+
 
 </details>
 
 <details>
-<summary>📂 tools/</summary>
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=vscode,postman&theme=dark" />
-
-</details>
-
-</details>
-
-<details>
-<summary><b>📂 projects/</b></summary>
-
+<summary><b>projects</b></summary>
 <br/>
 
 <details>
-<summary>📂 ai-log-intelligence-system/</summary>
-
+<summary><b>AI Log Intelligence System</b></summary>
 <br/>
-
-An AI-powered observability platform for real-time log ingestion, analysis, anomaly detection, and debugging.
 
 ```mermaid
-flowchart LR
-    A["Application Logs"] --> B["Log Ingestion"]
-    B --> C["Processing"]
-    C --> D["ML Analysis"]
-    D --> E["Dashboard"]
-    B -->|"live stream"| E
-    style A fill:#1e293b,stroke:#475569,color:#f8fafc
-    style B fill:#1e293b,stroke:#475569,color:#f8fafc
-    style C fill:#1e293b,stroke:#475569,color:#f8fafc
-    style D fill:#334155,stroke:#94a3b8,color:#f8fafc
-    style E fill:#1e293b,stroke:#475569,color:#f8fafc
+graph TD
+    R(["AI Log Intelligence System"])
+    R --> F(["Features"])
+    R --> T(["Stack"])
+    F --> F0(["Real-time ingestion"])
+    F --> F1(["Socket.IO streaming"])
+    F --> F2(["Pattern detection"])
+    F --> F3(["ML anomaly detection"])
+    F --> F4(["REST APIs"])
+    F --> F5(["Monitoring dashboard"])
+    T --> T0(["Python"])
+    T --> T1(["React"])
+    T --> T2(["Node.js"])
+    T --> T3(["MongoDB"])
+    T --> T4(["Docker"])
+    T --> T5(["AWS"])
+    class R root
+    class F,T l1
+    class F0,F1,F2,F3,F4,F5,T0,T1,T2,T3,T4,T5 leaf
+    classDef root fill:#334155,stroke:#94a3b8,color:#f8fafc,stroke-width:2px
+    classDef l1 fill:#1e293b,stroke:#64748b,color:#f8fafc
+    classDef l2 fill:#0f172a,stroke:#475569,color:#e2e8f0
+    classDef leaf fill:#0f172a,stroke:#334155,color:#cbd5e1
 ```
 
-- Real-time log ingestion with Socket.IO live streaming
-- Automated pattern detection and ML-based anomaly detection
-- REST APIs and interactive monitoring dashboards
-- Log filtering and metadata processing
-- Dockerized services with AWS deployment architecture
-
-<img src="https://skillicons.dev/icons?i=python,react,nodejs,mongodb,docker,aws&theme=dark" />
-
-<br/>
+An AI-powered observability platform for real-time log ingestion, analysis, anomaly detection, and debugging.
 
 <a href="https://ai-log-intelligence-frontend.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-0f172a?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <a href="https://github.com/Rockyyy2312/AI-log-Intelligence-system"><img src="https://img.shields.io/badge/Source_Code-0f172a?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -157,64 +229,71 @@ flowchart LR
 </details>
 
 <details>
-<summary>📂 patient-owned-health-data-platform/</summary>
-
+<summary><b>Patient-Owned Health Data Platform</b></summary>
 <br/>
+
+```mermaid
+graph TD
+    R(["Patient-Owned Health Data Platform"])
+    R --> F(["Features"])
+    R --> T(["Stack"])
+    F --> F0(["JWT authentication"])
+    F --> F1(["Role-based access"])
+    F --> F2(["DRF APIs"])
+    F --> F3(["SHA-256 integrity"])
+    F --> F4(["Record ownership"])
+    T --> T0(["Next.js"])
+    T --> T1(["Django"])
+    T --> T2(["Python"])
+    T --> T3(["Docker"])
+    T --> T4(["PostgreSQL"])
+    class R root
+    class F,T l1
+    class F0,F1,F2,F3,F4,T0,T1,T2,T3,T4 leaf
+    classDef root fill:#334155,stroke:#94a3b8,color:#f8fafc,stroke-width:2px
+    classDef l1 fill:#1e293b,stroke:#64748b,color:#f8fafc
+    classDef l2 fill:#0f172a,stroke:#475569,color:#e2e8f0
+    classDef leaf fill:#0f172a,stroke:#334155,color:#cbd5e1
+```
 
 A secure healthcare platform built around patient-controlled records, authentication, access control, and data integrity.
 
+</details>
+
+
+</details>
+
+<details>
+<summary><b>education</b></summary>
+<br/>
+
 ```mermaid
-flowchart LR
-    A["Patient"] --> B["JWT Auth"]
-    B --> C["Access Control"]
-    C --> D["REST API"]
-    D --> E["Medical Data"]
-    E -->|"SHA-256"| F["Integrity Check"]
-    style A fill:#1e293b,stroke:#475569,color:#f8fafc
-    style B fill:#1e293b,stroke:#475569,color:#f8fafc
-    style C fill:#1e293b,stroke:#475569,color:#f8fafc
-    style D fill:#1e293b,stroke:#475569,color:#f8fafc
-    style E fill:#334155,stroke:#94a3b8,color:#f8fafc
-    style F fill:#1e293b,stroke:#475569,color:#f8fafc
+graph TD
+    R(["Education"])
+    R --> N0(["B.E. Information Technology"])
+    R --> N1(["Savitribai Phule Pune University"])
+    R --> N2(["2022 - 2026"])
+    class R root
+    class N0,N1,N2 leaf
+    classDef root fill:#334155,stroke:#94a3b8,color:#f8fafc,stroke-width:2px
+    classDef l1 fill:#1e293b,stroke:#64748b,color:#f8fafc
+    classDef l2 fill:#0f172a,stroke:#475569,color:#e2e8f0
+    classDef leaf fill:#0f172a,stroke:#334155,color:#cbd5e1
 ```
 
-- JWT authentication and role-based access control
-- Django REST Framework APIs
-- SHA-256 integrity verification with blockchain-inspired verification
-- Patient-controlled record management
-- Dockerized, modular backend
-
-<img src="https://skillicons.dev/icons?i=nextjs,django,python,docker,postgres&theme=dark" />
-
 </details>
 
-</details>
-
-<details>
-<summary><b>📂 education/</b></summary>
-
-<br/>
-
-**Bachelor of Engineering, Information Technology**
-Savitribai Phule Pune University · 2022 – 2026
-
-</details>
-
-<details>
-<summary><b>📂 contact/</b></summary>
-
-<br/>
-
-- Email: [laukikparashare@gmail.com](mailto:laukikparashare@gmail.com)
-- LinkedIn: [laukik-parashare](https://www.linkedin.com/in/laukik-parashare-7373a326b/)
-- GitHub: [Rockyyy2312](https://github.com/Rockyyy2312)
-
-</details>
-
-</details>
 
 <br/>
 
 <div align="center">
+
+<a href="mailto:laukikparashare@gmail.com"><img src="https://img.shields.io/badge/Email-1e293b?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/laukik-parashare-7373a326b/"><img src="https://img.shields.io/badge/LinkedIn-1e293b?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/Rockyyy2312"><img src="https://img.shields.io/badge/GitHub-1e293b?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+<br/><br/>
+
 <img src="https://capsule-render.vercel.app/api?type=slice&color=0:1e293b,100:0f172a&height=100&section=footer" width="100%" />
+
 </div>
