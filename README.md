@@ -1,17 +1,12 @@
 <!-- ═══════════════════ HEADER ═══════════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=LAUKIK%20PARASHARE&fontSize=56&fontColor=ffffff&fontAlignY=40&desc=Software%20Engineer%20%E2%80%A2%20AI%2FML%20%E2%80%A2%20Backend%20%E2%80%A2%20Cloud&descSize=18&descAlignY=62&descColor=c4b5fd&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=12,20,24&height=260&section=header&text=LAUKIK%20PARASHARE&fontSize=54&fontColor=ffffff&fontAlignY=50&desc=Software%20Engineer%20%E2%80%A2%20AI%2FML%20%E2%80%A2%20Backend%20%E2%80%A2%20Cloud&descSize=18&descAlignY=72&descColor=e9d5ff&stroke=7c3aed&strokeWidth=2" width="100%" />
 
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=800&height=50&lines=Building+AI-powered+systems;Designing+scalable+backends;Deploying+on+the+cloud;Turning+messy+problems+into+working+software" alt="Typing SVG" />
 </a>
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=Rockyyy2312&label=PROFILE%20VIEWS&color=7c3aed&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/Rockyyy2312?style=for-the-badge&logo=github&color=7c3aed&labelColor=0f0c29" />
-<img src="https://img.shields.io/github/stars/Rockyyy2312?style=for-the-badge&logo=github&color=7c3aed&labelColor=0f0c29" />
 
 </div>
 
@@ -93,11 +88,11 @@ const laukik = {
 
 ```mermaid
 flowchart LR
-    A[📄 Application Logs] --> B[📥 Log Ingestion]
-    B --> C[⚙️ Processing]
-    C --> D[🤖 ML Analysis]
-    D --> E[📊 Dashboard]
-    B -. Socket.IO .-> E
+    A["Application Logs"] --> B["Log Ingestion"]
+    B --> C["Processing"]
+    C --> D["ML Analysis"]
+    D --> E["Dashboard"]
+    B -->|"live stream"| E
     style A fill:#1e1b4b,stroke:#7c3aed,color:#fff
     style B fill:#1e1b4b,stroke:#7c3aed,color:#fff
     style C fill:#1e1b4b,stroke:#7c3aed,color:#fff
@@ -127,11 +122,11 @@ flowchart LR
 
 ```mermaid
 flowchart LR
-    A[👤 Patient] --> B[🔐 JWT Auth]
-    B --> C[🛡️ RBAC]
-    C --> D[⚙️ REST API]
-    D --> E[🗄️ Medical Data]
-    E -. SHA-256 .-> F[✅ Integrity Check]
+    A["Patient"] --> B["JWT Auth"]
+    B --> C["Access Control"]
+    C --> D["REST API"]
+    D --> E["Medical Data"]
+    E -->|"SHA-256"| F["Integrity Check"]
     style A fill:#1e1b4b,stroke:#7c3aed,color:#fff
     style B fill:#1e1b4b,stroke:#7c3aed,color:#fff
     style C fill:#1e1b4b,stroke:#7c3aed,color:#fff
@@ -151,36 +146,16 @@ flowchart LR
 
 <br/>
 
-<!-- ═══════════════════ GITHUB STATS ═══════════════════ -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=2000&pause=100&color=C4B5FD&width=500&height=40&lines=%F0%9F%93%8A+GitHub+Stats" alt="GitHub Stats" />
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Rockyyy2312&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=c4b5fd&icon_color=a78bfa&text_color=e5e7eb&count_private=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rockyyy2312&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=c4b5fd&text_color=e5e7eb" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rockyyy2312&theme=midnight-purple&hide_border=true&background=0f0c29&ring=a78bfa&fire=f97316&currStreakLabel=c4b5fd" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rockyyy2312&bg_color=0f0c29&color=c4b5fd&line=7c3aed&point=ffffff&area=true&area_color=7c3aed&hide_border=true" width="100%" />
-
-</div>
-
-<br/>
-
 <!-- ═══════════════════ CLOUD ═══════════════════ -->
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=2000&pause=100&color=C4B5FD&width=500&height=40&lines=%E2%98%81%EF%B8%8F+Cloud+Architecture" alt="Cloud Architecture" />
 
 ```mermaid
 flowchart LR
-    C[🌐 Client] --> API[⚙️ REST APIs]
-    API --> EC2[🖥️ AWS EC2<br/>App Server]
-    EC2 --> RDS[(🗄️ AWS RDS)]
-    EC2 --> S3[(📦 AWS S3)]
-    IAM{{🔑 AWS IAM}} -.-> EC2
+    C["Client"] --> API["REST APIs"]
+    API --> EC2["AWS EC2"]
+    EC2 --> RDS["AWS RDS"]
+    EC2 --> S3["AWS S3"]
+    IAM["AWS IAM"] -.-> EC2
     style C fill:#1e1b4b,stroke:#7c3aed,color:#fff
     style API fill:#1e1b4b,stroke:#7c3aed,color:#fff
     style EC2 fill:#78350f,stroke:#f59e0b,color:#fff
@@ -202,34 +177,30 @@ flowchart LR
 <!-- ═══════════════════ EDUCATION & CERTS ═══════════════════ -->
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=2000&pause=100&color=C4B5FD&width=600&height=40&lines=%F0%9F%8E%93+Education+%26+Certifications" alt="Education and Certifications" />
 
+<div align="center">
+
 <table>
 <tr>
-<td width="33%" valign="top" align="center">
-
-### 🎓 Education
-**B.E. Information Technology**
-<br/>Savitribai Phule Pune University
-<br/>`2022 — 2026`
-
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/EDUCATION-7c3aed?style=for-the-badge&logo=googlescholar&logoColor=white" /><br/><br/>
+<b>B.E. Information Technology</b><br/>
+<sub>Savitribai Phule Pune University</sub><br/>
+<sub>2022 — 2026</sub>
 </td>
-<td width="33%" valign="top" align="center">
-
-### 🧠 ML Specialization
-Supervised Learning
-<br/>Unsupervised Learning
-<br/>Reinforcement Learning
-<br/>ML Projects
-
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/CERTIFIED-4c1d95?style=for-the-badge&logo=coursera&logoColor=white" /><br/><br/>
+<b>Machine Learning Specialization</b><br/>
+<sub>Supervised • Unsupervised • Reinforcement Learning</sub>
 </td>
-<td width="33%" valign="top" align="center">
-
-### ☁️ AWS with Python
-EC2 • S3 • RDS • IAM
-<br/>Python-based cloud apps
-
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/CERTIFIED-4c1d95?style=for-the-badge&logo=amazonaws&logoColor=white" /><br/><br/>
+<b>AWS with Python</b><br/>
+<sub>EC2 • S3 • RDS • IAM</sub>
 </td>
 </tr>
 </table>
+
+</div>
 
 <br/>
 
@@ -238,7 +209,7 @@ EC2 • S3 • RDS • IAM
 
 ```mermaid
 flowchart LR
-    A[🧠 Understand] --> B[🔍 Decompose] --> C[🏗️ Architect] --> D[⚙️ Build] --> E[🧪 Test] --> F[🚀 Deploy]
+    A["Understand"] --> B["Decompose"] --> C["Architect"] --> D["Build"] --> E["Test"] --> F["Deploy"]
     style A fill:#312e81,stroke:#818cf8,color:#fff
     style B fill:#3730a3,stroke:#818cf8,color:#fff
     style C fill:#4338ca,stroke:#a5b4fc,color:#fff
