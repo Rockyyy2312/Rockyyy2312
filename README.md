@@ -1,90 +1,131 @@
-<!-- ═══════════════════ HEADER ═══════════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=12,20,24&height=260&section=header&text=LAUKIK%20PARASHARE&fontSize=54&fontColor=ffffff&fontAlignY=50&desc=Software%20Engineer%20%E2%80%A2%20AI%2FML%20%E2%80%A2%20Backend%20%E2%80%A2%20Cloud&descSize=18&descAlignY=72&descColor=e9d5ff&stroke=7c3aed&strokeWidth=2" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0f172a,100:1e293b&height=240&section=header&text=Laukik%20Parashare&fontSize=52&fontColor=f8fafc&fontAlignY=45&desc=Software%20Engineer%20%7C%20AI%20%26%20ML%20%7C%20Backend%20%7C%20Cloud&descSize=17&descAlignY=68&descColor=94a3b8" width="100%" alt="Laukik Parashare" />
 
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=800&height=50&lines=Building+AI-powered+systems;Designing+scalable+backends;Deploying+on+the+cloud;Turning+messy+problems+into+working+software" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1200&color=94A3B8&center=true&vCenter=true&width=700&height=40&lines=Building+AI-powered+applications;Designing+backend+systems+and+APIs;Deploying+production-ready+cloud+services" alt="Typing SVG" />
 
+<br/>
+
+<a href="mailto:laukikparashare@gmail.com"><img src="https://img.shields.io/badge/Email-1e293b?style=flat-square&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/laukik-parashare-7373a326b/"><img src="https://img.shields.io/badge/LinkedIn-1e293b?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/Rockyyy2312"><img src="https://img.shields.io/badge/GitHub-1e293b?style=flat-square&logo=github&logoColor=white" /></a>
 
 </div>
 
 <br/>
 
-<!-- ═══════════════════ ABOUT ═══════════════════ -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=2000&pause=100&color=C4B5FD&width=500&height=40&lines=%7E%2F+whoami" alt="whoami" />
+I build AI-powered applications, backend systems, and cloud-ready infrastructure. I like taking messy real-world problems, breaking them down, and turning them into software that works.
 
-```ts
-const laukik = {
-  role: "Software Engineer",
-  focus: ["Machine Learning", "LLM Apps", "Backend Systems", "Cloud"],
-  education: "B.E. Information Technology @ SPPU (2022 — 2026)",
-  currentlyBuilding: ["AI Log Intelligence System", "Patient-Owned Health Data Platform"],
-  philosophy: "Build systems that make difficult things easier.",
-  funFact: "I break my own code before users do.",
-};
-```
+> Click any folder below to expand it.
 
 <br/>
 
-<!-- ═══════════════════ FOCUS ═══════════════════ -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=2000&pause=100&color=C4B5FD&width=500&height=40&lines=%E2%9A%A1+Current+Focus" alt="Current Focus" />
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🧠 Artificial Intelligence
-- Machine Learning
-- LLM Applications
-- RAG Pipelines
-- Vector Embeddings
-- Prompt Engineering
-- AI-powered Systems
-
-</td>
-<td width="50%" valign="top">
-
-### ☁️ Engineering
-- Backend Architecture
-- REST APIs
-- Cloud Infrastructure
-- Docker
-- AWS
-- Scalable Data Processing
-
-</td>
-</tr>
-</table>
-
+<details open>
+<summary><b>📂 laukik/</b></summary>
 <br/>
 
-<!-- ═══════════════════ STACK ═══════════════════ -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=2000&pause=100&color=C4B5FD&width=500&height=40&lines=%F0%9F%9B%A0%EF%B8%8F+Tech+Stack" alt="Tech Stack" />
+<details>
+<summary><b>📂 about/</b></summary>
 
-<div align="center">
+<br/>
 
 | | |
-|:---|:---|
-| **Languages** | <img src="https://skillicons.dev/icons?i=python,cpp,java,js,sql&theme=dark" /> |
-| **AI / ML** | <img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" /> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /> |
-| **Backend** | <img src="https://skillicons.dev/icons?i=fastapi,django,nodejs,express&theme=dark" /> |
-| **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs&theme=dark" /> |
-| **Databases** | <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres&theme=dark" /> |
-| **Cloud & DevOps** | <img src="https://skillicons.dev/icons?i=aws,docker,git,github&theme=dark" /> |
-| **Tools** | <img src="https://skillicons.dev/icons?i=vscode,postman&theme=dark" /> |
+|:--|:--|
+| **Role** | Software Engineer |
+| **Focus** | Machine Learning, LLM applications, backend systems, cloud |
+| **Education** | B.E. Information Technology, Savitribai Phule Pune University (2022 – 2026) |
+| **Working on** | AI Log Intelligence System, Patient-Owned Health Data Platform |
 
-</div>
+</details>
+
+<details>
+<summary><b>📂 skills/</b></summary>
 
 <br/>
 
-<!-- ═══════════════════ PROJECTS ═══════════════════ -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=2000&pause=100&color=C4B5FD&width=500&height=40&lines=%F0%9F%A7%A0+Featured+Systems" alt="Featured Systems" />
+<details>
+<summary>📂 languages/</summary>
 
-### 🔭 AI Log Intelligence & Observability System
+<br/>
 
-> Real-time log ingestion, analysis, anomaly detection, and debugging workflows — powered by ML.
+<img src="https://skillicons.dev/icons?i=python,cpp,java,js,sql&theme=dark" />
+
+</details>
+
+<details>
+<summary>📂 ai-ml/</summary>
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" />
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+
+Machine Learning · LLM Applications · RAG Pipelines · Vector Embeddings · Prompt Engineering
+
+</details>
+
+<details>
+<summary>📂 backend/</summary>
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=fastapi,django,nodejs,express&theme=dark" />
+
+REST APIs · Authentication · Role-based access control · Scalable data processing
+
+</details>
+
+<details>
+<summary>📂 frontend/</summary>
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs&theme=dark" />
+
+</details>
+
+<details>
+<summary>📂 databases/</summary>
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres&theme=dark" />
+
+</details>
+
+<details>
+<summary>📂 cloud-devops/</summary>
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github&theme=dark" />
+
+AWS EC2 · S3 · RDS · IAM · Docker
+
+</details>
+
+<details>
+<summary>📂 tools/</summary>
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=vscode,postman&theme=dark" />
+
+</details>
+
+</details>
+
+<details>
+<summary><b>📂 projects/</b></summary>
+
+<br/>
+
+<details>
+<summary>📂 ai-log-intelligence-system/</summary>
+
+<br/>
+
+An AI-powered observability platform for real-time log ingestion, analysis, anomaly detection, and debugging.
 
 ```mermaid
 flowchart LR
@@ -93,32 +134,34 @@ flowchart LR
     C --> D["ML Analysis"]
     D --> E["Dashboard"]
     B -->|"live stream"| E
-    style A fill:#1e1b4b,stroke:#7c3aed,color:#fff
-    style B fill:#1e1b4b,stroke:#7c3aed,color:#fff
-    style C fill:#1e1b4b,stroke:#7c3aed,color:#fff
-    style D fill:#4c1d95,stroke:#a78bfa,color:#fff
-    style E fill:#1e1b4b,stroke:#7c3aed,color:#fff
+    style A fill:#1e293b,stroke:#475569,color:#f8fafc
+    style B fill:#1e293b,stroke:#475569,color:#f8fafc
+    style C fill:#1e293b,stroke:#475569,color:#f8fafc
+    style D fill:#334155,stroke:#94a3b8,color:#f8fafc
+    style E fill:#1e293b,stroke:#475569,color:#f8fafc
 ```
 
-| ⚡ Core Features | 🧰 Tech |
-|:---|:---|
-| Real-time log ingestion & Socket.IO live streaming | <img src="https://skillicons.dev/icons?i=python,react,nodejs,mongodb,docker,aws&theme=dark" /> |
-| Automated pattern detection | |
-| ML-based anomaly detection | |
-| REST APIs & interactive monitoring dashboards | |
-| Log filtering & metadata processing | |
-| Dockerized services, AWS deployment architecture | |
+- Real-time log ingestion with Socket.IO live streaming
+- Automated pattern detection and ML-based anomaly detection
+- REST APIs and interactive monitoring dashboards
+- Log filtering and metadata processing
+- Dockerized services with AWS deployment architecture
 
-<div align="center">
-<a href="https://ai-log-intelligence-frontend.vercel.app/"><img src="https://img.shields.io/badge/🌐_LIVE_DEMO-7c3aed?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="https://github.com/Rockyyy2312/AI-log-Intelligence-system"><img src="https://img.shields.io/badge/💻_SOURCE_CODE-1e1b4b?style=for-the-badge&logo=github&logoColor=white" /></a>
-</div>
+<img src="https://skillicons.dev/icons?i=python,react,nodejs,mongodb,docker,aws&theme=dark" />
 
 <br/>
 
-### 🏥 Patient-Owned Health Data Platform
+<a href="https://ai-log-intelligence-frontend.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-0f172a?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://github.com/Rockyyy2312/AI-log-Intelligence-system"><img src="https://img.shields.io/badge/Source_Code-0f172a?style=for-the-badge&logo=github&logoColor=white" /></a>
 
-> A secure healthcare platform built around patient-controlled records, authentication, access control, and data integrity.
+</details>
+
+<details>
+<summary>📂 patient-owned-health-data-platform/</summary>
+
+<br/>
+
+A secure healthcare platform built around patient-controlled records, authentication, access control, and data integrity.
 
 ```mermaid
 flowchart LR
@@ -127,154 +170,51 @@ flowchart LR
     C --> D["REST API"]
     D --> E["Medical Data"]
     E -->|"SHA-256"| F["Integrity Check"]
-    style A fill:#1e1b4b,stroke:#7c3aed,color:#fff
-    style B fill:#1e1b4b,stroke:#7c3aed,color:#fff
-    style C fill:#1e1b4b,stroke:#7c3aed,color:#fff
-    style D fill:#1e1b4b,stroke:#7c3aed,color:#fff
-    style E fill:#4c1d95,stroke:#a78bfa,color:#fff
-    style F fill:#14532d,stroke:#4ade80,color:#fff
+    style A fill:#1e293b,stroke:#475569,color:#f8fafc
+    style B fill:#1e293b,stroke:#475569,color:#f8fafc
+    style C fill:#1e293b,stroke:#475569,color:#f8fafc
+    style D fill:#1e293b,stroke:#475569,color:#f8fafc
+    style E fill:#334155,stroke:#94a3b8,color:#f8fafc
+    style F fill:#1e293b,stroke:#475569,color:#f8fafc
 ```
 
-| ⚡ Key Features | 🧰 Tech |
-|:---|:---|
-| JWT authentication & role-based access control | <img src="https://skillicons.dev/icons?i=nextjs,django,python,docker,postgres&theme=dark" /> |
-| Django REST Framework APIs | |
-| SHA-256 integrity verification | |
-| Blockchain-inspired verification | |
-| Dockerized, modular backend | |
-| Patient-controlled record management | |
+- JWT authentication and role-based access control
+- Django REST Framework APIs
+- SHA-256 integrity verification with blockchain-inspired verification
+- Patient-controlled record management
+- Dockerized, modular backend
+
+<img src="https://skillicons.dev/icons?i=nextjs,django,python,docker,postgres&theme=dark" />
+
+</details>
+
+</details>
+
+<details>
+<summary><b>📂 education/</b></summary>
 
 <br/>
 
-<!-- ═══════════════════ CLOUD ═══════════════════ -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=2000&pause=100&color=C4B5FD&width=500&height=40&lines=%E2%98%81%EF%B8%8F+Cloud+Architecture" alt="Cloud Architecture" />
+**Bachelor of Engineering, Information Technology**
+Savitribai Phule Pune University · 2022 – 2026
 
-```mermaid
-flowchart LR
-    C["Client"] --> API["REST APIs"]
-    API --> EC2["AWS EC2"]
-    EC2 --> RDS["AWS RDS"]
-    EC2 --> S3["AWS S3"]
-    IAM["AWS IAM"] -.-> EC2
-    style C fill:#1e1b4b,stroke:#7c3aed,color:#fff
-    style API fill:#1e1b4b,stroke:#7c3aed,color:#fff
-    style EC2 fill:#78350f,stroke:#f59e0b,color:#fff
-    style RDS fill:#1e3a8a,stroke:#60a5fa,color:#fff
-    style S3 fill:#14532d,stroke:#4ade80,color:#fff
-    style IAM fill:#4c1d95,stroke:#a78bfa,color:#fff
-```
+</details>
+
+<details>
+<summary><b>📂 contact/</b></summary>
+
+<br/>
+
+- Email: [laukikparashare@gmail.com](mailto:laukikparashare@gmail.com)
+- LinkedIn: [laukik-parashare](https://www.linkedin.com/in/laukik-parashare-7373a326b/)
+- GitHub: [Rockyyy2312](https://github.com/Rockyyy2312)
+
+</details>
+
+</details>
+
+<br/>
 
 <div align="center">
-<img src="https://img.shields.io/badge/AWS_EC2-0f0c29?style=for-the-badge&logo=amazonec2&logoColor=FF9900" />
-<img src="https://img.shields.io/badge/AWS_S3-0f0c29?style=for-the-badge&logo=amazons3&logoColor=569A31" />
-<img src="https://img.shields.io/badge/AWS_RDS-0f0c29?style=for-the-badge&logo=amazonrds&logoColor=527FFF" />
-<img src="https://img.shields.io/badge/AWS_IAM-0f0c29?style=for-the-badge&logo=amazoniam&logoColor=DD344C" />
-<img src="https://img.shields.io/badge/Docker-0f0c29?style=for-the-badge&logo=docker&logoColor=2496ED" />
-</div>
-
-<br/>
-
-<!-- ═══════════════════ EDUCATION & CERTS ═══════════════════ -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=2000&pause=100&color=C4B5FD&width=600&height=40&lines=%F0%9F%8E%93+Education+%26+Certifications" alt="Education and Certifications" />
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/EDUCATION-7c3aed?style=for-the-badge&logo=googlescholar&logoColor=white" /><br/><br/>
-<b>B.E. Information Technology</b><br/>
-<sub>Savitribai Phule Pune University</sub><br/>
-<sub>2022 — 2026</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/CERTIFIED-4c1d95?style=for-the-badge&logo=coursera&logoColor=white" /><br/><br/>
-<b>Machine Learning Specialization</b><br/>
-<sub>Supervised • Unsupervised • Reinforcement Learning</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/CERTIFIED-4c1d95?style=for-the-badge&logo=amazonaws&logoColor=white" /><br/><br/>
-<b>AWS with Python</b><br/>
-<sub>EC2 • S3 • RDS • IAM</sub>
-</td>
-</tr>
-</table>
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════ MINDSET ═══════════════════ -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=2000&pause=100&color=C4B5FD&width=500&height=40&lines=%F0%9F%A7%A9+Engineering+Mindset" alt="Engineering Mindset" />
-
-```mermaid
-flowchart LR
-    A["Understand"] --> B["Decompose"] --> C["Architect"] --> D["Build"] --> E["Test"] --> F["Deploy"]
-    style A fill:#312e81,stroke:#818cf8,color:#fff
-    style B fill:#3730a3,stroke:#818cf8,color:#fff
-    style C fill:#4338ca,stroke:#a5b4fc,color:#fff
-    style D fill:#5b21b6,stroke:#c4b5fd,color:#fff
-    style E fill:#6d28d9,stroke:#c4b5fd,color:#fff
-    style F fill:#7c3aed,stroke:#ddd6fe,color:#fff
-```
-
-<div align="center">
-<i>Complexity is not the goal. Solving the problem is.</i>
-</div>
-
-<br/>
-
-<!-- ═══════════════════ BUILDING TOWARD ═══════════════════ -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=2000&pause=100&color=C4B5FD&width=600&height=40&lines=%F0%9F%94%AD+What+I%27m+Building+Toward" alt="Building toward" />
-
-<table align="center">
-<tr>
-<td align="center" width="25%">
-
-### 🤖
-**AI Systems**
-<br/><sub>Intelligent apps that solve practical problems</sub>
-
-</td>
-<td align="center" width="25%">
-
-### ⚙️
-**Backend Systems**
-<br/><sub>Reliable APIs & scalable architectures</sub>
-
-</td>
-<td align="center" width="25%">
-
-### ☁️
-**Cloud Engineering**
-<br/><sub>Production-oriented infrastructure</sub>
-
-</td>
-<td align="center" width="25%">
-
-### 💡
-**Real Impact**
-<br/><sub>Tech that makes life easier</sub>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!-- ═══════════════════ CONNECT ═══════════════════ -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=2000&pause=100&color=C4B5FD&width=500&height=40&lines=%F0%9F%93%AB+Let%27s+Connect" alt="Let's Connect" />
-
-<div align="center">
-
-<a href="mailto:laukikparashare@gmail.com"><img src="https://img.shields.io/badge/EMAIL-7c3aed?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/laukik-parashare-7373a326b/"><img src="https://img.shields.io/badge/LINKEDIN-4c1d95?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/Rockyyy2312"><img src="https://img.shields.io/badge/GITHUB-1e1b4b?style=for-the-badge&logo=github&logoColor=white" /></a>
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=16&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=400&height=30&lines=Build.+Learn.+Solve.+Repeat." alt="Build Learn Solve Repeat" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=140&section=footer" width="100%" />
-
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:1e293b,100:0f172a&height=100&section=footer" width="100%" />
 </div>
